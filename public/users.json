@@ -1,0 +1,25 @@
+[
+    {"username" : "Ohad",
+     "password" : "4j1c", 
+     "email" : "ohadshem@gmail.com",
+     "type" : "admin", 
+     "profilePic" : "./User Profile Pics/businessman1"},
+
+    {"username" : "Daniel", 
+     "password" : "t3q8", 
+     "email" : "danpr@gmail.com",
+     "type" : "user", 
+     "profilePic" : "./User Profile Pics/businessman2"},
+
+    {"username" : "Rotem", 
+     "password" : "n4z9", 
+     "email" : "rotembar@gmail.com",
+     "type" : "admin", 
+     "profilePic" : "./User Profile Pics/businesswoman"}, 
+
+    {"username" : "Oleg", 
+     "password" : "p9e2", 
+     "email" : "olegbu@gmail.com",
+     "type" : "user", 
+     "profilePic" : "./User Profile Pics/dude"} 
+]
